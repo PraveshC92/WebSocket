@@ -8,7 +8,8 @@
     "ws": "^8.18.0"
   },
   "scripts": {
-    "test": "start:ws"
+    "test": "start:ws",
+    "start": "node server.js"
   },
   "author": "pravesh chourey",
   "license": "ISC"
